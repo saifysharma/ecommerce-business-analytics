@@ -122,32 +122,32 @@ The Power BI report contains six pages:
 
 ### Overview
 
-![Overview Dashboard](Dashboard/overview.png)
+![Overview Dashboard](Dashboard/01_overview.png)
 
 ### Sales Analysis
 
-![Sales Dashboard](Dashboard/sales.png)
+![Sales Dashboard](Dashboard/02_sales.png)
 
 ### Product Analysis
 
-![Product Dashboard](Dashboard/products.png)
+![Product Dashboard](Dashboard/03_products.png)
 
 ### Customer Analysis
 
-![Customer Dashboard](Dashboard/customers.png)
+![Customer Dashboard](Dashboard/04_customers.png)
 
 ### Marketing Analysis
 
-![Marketing Dashboard](Dashboard/marketing.png)
+![Marketing Dashboard](Dashboard/05_marketing.png)
 
 ### Funnel Analysis
 
-![Funnel Dashboard](Dashboard/funnel.png)
+![Funnel Dashboard](Dashboard/06_funnel.png)
 
 ## Project Deliverables
 
-- 5 SQL analysis files
-- Interactive Power BI dashboard
+-  SQL analysis files
+- Power BI dashboard with 6 analytical pages
 - 6 dashboard page previews
 - Business insights
 - Actionable business recommendations
