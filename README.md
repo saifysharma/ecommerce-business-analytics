@@ -98,22 +98,21 @@ to measure stage conversion, identify major drop-offs, and investigate high-view
 
 ## Business Recommendations
 
-1. **Investigate the October → November revenue decline** by breaking the change down by product, category, market, device, and traffic source.
+1. **Investigate the October → November revenue drop** by checking products, categories, markets, devices, and traffic sources.
 
-2. **Improve the Add to Cart → Checkout stage**, where the largest funnel drop-off occurs, by investigating checkout usability, unexpected costs, shipping information, payment options, and technical friction.
+2. **Improve the Add to Cart → Checkout stage** by checking for issues with the checkout process, shipping information, extra costs, and payment options.
 
-3. **Optimize organic traffic conversion** by reviewing landing pages, search intent, product relevance, and traffic quality.
+3. **Improve organic traffic conversion** by reviewing landing pages, product relevance, and visitor quality.
 
-4. **Prioritize profitable products and categories**, rather than relying on units sold alone, because higher sales volume does not always result in the highest profit.
+4. **Focus on profitable products and categories**, not only products with high sales volume, as higher sales do not always mean higher profit.
 
-5. **Strengthen retention of repeat and high-value customers** through personalized offers, loyalty incentives, and cross-selling.
+5. **Focus on repeat and high-value customers** through personalized offers, loyalty benefits, and related product recommendations.
 
-6. **Review high-view, low-purchase products** for potential issues with pricing, product descriptions, images, ratings, availability, and customer trust.
+6. **Review products with many views but few purchases** to identify possible issues with pricing, product information, images, ratings, or availability.
 
-7. **Evaluate discount strategy carefully.** Since 0%-discount sales generate approximately **$2.1M**, targeted discounts should be tested based on incremental revenue rather than assuming larger discounts always improve performance.
+7. **Review the discount strategy** because sales with no discount generated approximately **$2.1M**. Test discounts carefully to understand their impact on revenue.
 
-8. **Monitor payment performance**, particularly card payments which contribute approximately **70% of revenue**, while maintaining suitable alternative payment options.
-
+8. **Monitor payment methods**, especially card payments, which contribute approximately **70% of revenue**, while maintaining other payment options.
 ## Power BI Dashboard
 
 The Power BI report contains six pages:
